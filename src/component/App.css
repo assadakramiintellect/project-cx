@@ -1,0 +1,21 @@
+.paddings{
+    margin-top: 5px;
+}
+.col-sm-offset-4.col-sm-4,.paddings-top{
+    margin-top: 20px;
+}
+.signout{
+    float: right;
+}
+.show-all{
+    text-align: center;
+}
+.full{
+    width: 100%;
+}
+.loader{
+    text-align: center;
+}
+.loader img{
+    width:10%;
+}
